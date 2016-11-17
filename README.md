@@ -28,4 +28,4 @@ Architecture Diagram
 ```bash
 Note: Used Apache Kafka instead of AWS SQS
 ```
-<img src = "http://www.techspot.com/images2/downloads/topdownload/2014/05/twitter.jpg" align = "center">
+<img src = "https://github.com/Vignesh6v/Tweet-Trends/blob/master/static/ouIDUJT.png" align = "center">
