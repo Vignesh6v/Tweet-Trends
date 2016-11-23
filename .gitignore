@@ -5,7 +5,7 @@ __pycache__/
 
 # credentials files
 
-.txt
+*.txt
 
 # C extensions
 *.so
